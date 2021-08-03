@@ -242,6 +242,16 @@ input[type="button"].button-primary:focus {
   color: #212529;
   background-color: #212529;
   border-color: #212529; }
+}
+.btn-primary:hover{
+    background-color: #111111;
+    border-color: #000000;
+}
+.btn-primary.active, .btn-primary:active{
+    background-color: #111111;
+	border-color: #000000;
+}
+
 
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
