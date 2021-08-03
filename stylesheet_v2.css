@@ -244,12 +244,13 @@ input[type="button"].button-primary:focus {
   border-color: #212529; }
 }
 button:active{
-  background-color:#212529;
-  color: #FFF
+    background: #212529;
+    color: #FFFFFF
 }
+
 button:focus{
-   background-color:#212529;
-   color: #FFF
+    background-color: #212529;
+    color: #FFFFFF
 }
 
 /* Forms
