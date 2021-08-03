@@ -242,7 +242,10 @@ input[type="button"].button-primary:focus {
   color: #FFF;
   background-color: #1EAEDB;
   border-color: #1EAEDB; }
-
+.active, .btn:hover {
+  background-color: #666;
+  color: white;
+}
 
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
