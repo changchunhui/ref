@@ -243,11 +243,19 @@ input[type="button"].button-primary:focus {
   background-color: #212529;
   border-color: #212529; }
 }
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active {
+.button-primary{
+    font-family: TimeBurner;
+    font-size: 15px;
+    background-color: #232323;
+    border-color: #222222;
+}
+.button-primary:hover{
     background-color: #111111;
     border-color: #000000;
+}
+.button-primary:focus, .button-primary:active, .button-primary:active{
+    background-color: #111111;
+	border-color: #000000;
 }
 
 /* Forms
