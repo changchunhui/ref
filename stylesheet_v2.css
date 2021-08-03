@@ -232,11 +232,11 @@ input[type="button"].button-primary:focus {
   background-color: #1EAEDB;
   border-color: #1EAEDB; }
 button:active{
-  background: #212529;
+  background-color: #277991;
   color: #FFFFFF
 }
 button:focus{
-  background-color: #212529;
+  background-color: #277991;
   color: #FFFFFF
 }
 
